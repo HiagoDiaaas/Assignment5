@@ -8,7 +8,7 @@ public class Driver {
         figures[2] = new DownwardHat();
         figures[3] = new FaceMaker();
         figures[4] = new Vertical();
-        
+
         for (Figure figure : figures) {
             figure.getFigure();
         }
